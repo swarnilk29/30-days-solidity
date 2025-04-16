@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0; 
 
-import "./14-1baseDepositBox.sol";
+import "./14-2baseDepositBox.sol";
 
 contract PremiumDepositBox is BaseDepositBox{
 
